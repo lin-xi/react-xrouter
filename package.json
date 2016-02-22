@@ -1,0 +1,12 @@
+{
+    "name": "react-xrouter",
+    "version": "1.0.1",
+    "author": "linxi@iwaimai.baidu.com",
+    "description": "react xrouter",
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+    }
+}
